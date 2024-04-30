@@ -1,0 +1,5 @@
+# name;mass;v_vec;a_vec;r_vec;moon_of;moon_radius
+# first line should be !steps;timestep
+!1000;100
+Mars;6.4185e23;(0,0);;(0,0);;
+Phobos;1.06e16;;;;Mars;9.3773e6
