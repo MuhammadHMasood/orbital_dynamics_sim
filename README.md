@@ -33,3 +33,6 @@ To use this project, you can create instances of CelestialBody and CelestialSim,
 ## Future Work
 
 Potential improvements to this project could include adding support for 3D simulations, improving the accuracy of the numerical methods, and adding more features to the simulation, such as collisions between bodies or the effects of non-gravitational forces.
+
+
+Done as part of my computer simulation class at the University of Edinburgh.
